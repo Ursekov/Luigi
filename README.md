@@ -43,7 +43,7 @@
 Можно использовать следующую команду в терминале для запуска всего пайплайна:
 "python3 -m Luigi\ Pipeline DelFiles --local-scheduler"
 
-Чтобы запустить определнную задачу, необходимо заменить DelFiles на существующую задачу.
+Чтобы запустить определенный таск, необходимо заменить DelFiles на существующую задачу.
 
 :arrow_up:[к оглавлению](https://github.com/Ursekov/Luigi?tab=readme-ov-file#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
